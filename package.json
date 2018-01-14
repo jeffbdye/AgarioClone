@@ -1,0 +1,20 @@
+{
+  "name": "agarioclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffbdye/AgarioClone.git"
+  },
+  "author": "Jeff Dye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffbdye/AgarioClone/issues"
+  },
+  "homepage": "https://github.com/jeffbdye/AgarioClone#readme"
+}
